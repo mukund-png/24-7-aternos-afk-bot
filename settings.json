@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DostSmp10.aternos.me
-",
+    "ip": "funsmp-1.aternos.me",
+
     "port": 51346,
     "version": "1.20.1",
     "try-creative": false
